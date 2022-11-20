@@ -100,3 +100,28 @@ Bilmez miyim ekrem Abi bilmez miyim[^2].
 
 [^1]: Merhum Ekrem Abi
 [^2]: Dolandırıcı Sabri Abi
+
+algoritma chartına benzer akış diyagramı yapmak için 
+```mermaid
+graph TD;
+a-->b;
+b-->c;
+c-->d;
+a-->e;
+e-->d;
+```
+aynı zamanda mermaid js ile pie chart da yapabilirsin
+```mermaid
+pie title en sevdiğim oyunlar
+    "DOOM"               :16
+    "CALL OF DUTY"       :24
+    "BIOSHOCK"           :28
+    "THE WOLF AMOUNG US" :26
+    "TEAM FORTRESS 2"    :9
+```
+tabi bunlar basit formda biraz java script bakmanın faydası var
+<details><summary>buraya tıkla</summary>
+<p>
+buraya bir şeyler saklayabilirsin
+</p>
+</details>
