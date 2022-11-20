@@ -33,10 +33,17 @@ iki
 alıntılarda ilk üç kenenin yanına kodlama dilini yazarsan yazı dili ona göre eyleme geçecek
 
 ```python
-list=["çorum","boğaz","kale","zik","birisini","rastgele"]
+list=["hdnejoh","seaways","hesoyam","nuttertools","panzer"]
 ```
 ```javascript
 function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+link eklemek için [](web sitesi linki) şeklinde yapmalısın 
+>[ismail yk nın gizli sitesi](www.bombabomba.com)
+
+şimdi sıra geldi görüntü eklemeye ![]() formunda olup kara paranteze image normal paranteze sitemizi yazıyoruz 
+>bu arada cihazdan resmi kopyala diyip yapıştırınca otomatik olarak yükleniyor
+![luci](https://user-images.githubusercontent.com/101600310/202918888-53d6b18a-9bfd-4db6-862e-183c8b58429e.jpg)
+)
