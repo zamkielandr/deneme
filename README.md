@@ -46,4 +46,36 @@ link eklemek için [](web sitesi linki) şeklinde yapmalısın
 şimdi sıra geldi görüntü eklemeye ![]() formunda olup kara paranteze image normal paranteze sitemizi yazıyoruz 
 >bu arada cihazdan resmi kopyala diyip yapıştırınca otomatik olarak yükleniyor
 ![luci](https://user-images.githubusercontent.com/101600310/202918888-53d6b18a-9bfd-4db6-862e-183c8b58429e.jpg)
-)
+>ya da img src="" width="" height="" kalıbını <> içerisine yazıp yapabilirsin. Fotoğrafın boyutunu sadece bu formda yazarsan değiştirebilirsin
+<img src="https://user-images.githubusercontent.com/101600310/202918888-53d6b18a-9bfd-4db6-862e-183c8b58429e.jpg" width="85" height="85">
+
+sıralı olmaayan liste oluşturmak içinse - * + parantezin başına koyaraak deneyebilirsin
+to do list
++ to do
++ to do do 
++ to do do do 
+formunda
+
+shopping list 
+* lemon
+* orange
+* kiwi
+* banana
+>not * bunu ayrı yazmazsan italik formunda yazar
+bir de sıralı dizi formunda deneyelim
+GalaXI
+1. Muslera
+2. Boey
+3. Kerem 
+4. Icardi
+
+iç içe liste 
+1. İÇ
+   - İÇE
+     - LİSTE
+görev listesi 
+- [x] günde 2 litre su tüket 🚰
+- [ ] 50 sayfa kitap oku 📖
+- [x] kayda değer 3 iş yap ⚜️
+
+emoji eklemek için : yanına kelime ekleyerek yapabilirsin 
