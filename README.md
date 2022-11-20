@@ -92,4 +92,11 @@ kodda gözüküp çıktıda gözükmeyen yerler için !--blablabla-- formundaki 
 ```
 paragraf için 1 boş satır bırakman yeterli
 ```
-sıra geldi referans ve kaynakçaya kaynakçayı belirtmek için [^1] [^2] veya [^note] formunda yazabilirsin . kaynakça kısmındaki linklerin önüne > [^1] [^2] veya [^note] den sonra : koyman gerekli bunu unutma
+sıra geldi referans ve kaynakçaya kaynakçayı belirtmek için [^3] [^5] veya [^note] formunda yazabilirsin . kaynakça kısmındaki linklerin önüne > [^1] [^2] veya [^note] den sonra : koyman gerekli bunu unutma
+
+Sıkılıyorum Sabri bunalıyorum isyan ediyorum isyan[^1].
+
+Bilmez miyim ekrem Abi bilmez miyim[^2].
+
+[^1]: Merhum Ekrem Abi
+[^2]: Dolandırıcı Sabri Abi
