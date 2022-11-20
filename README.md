@@ -80,12 +80,16 @@ iç içe liste
 1. İÇ
    - İÇE
      - LİSTE
-görev listesi 
-- [x] günde 2 litre su tüket 🚰
-- [ ] 50 sayfa kitap oku 📖
-- [x] kayda değer 3 iş yap ⚜️
+görev listesi içinse - kara karantez aç kapa şeklinde liste yapmalısın yapılanlara x koyabilirsin
+- [x]  günde 2 litre su tüket 🚰
+- [ ]  50 sayfa kitap oku 📖
+- [x]  kayda değer 3 iş yap ⚜️
 
 emoji eklemek için : yanına kelime ekleyerek yapabilirsin 
 
 kodda gözüküp çıktıda gözükmeyen yerler için !--blablabla-- formundaki yazıyı <> bunun içerisine koymalısın
 <!--say my name--> ya da say my name 
+```
+paragraf için 1 boş satır bırakman yeterli
+```
+sıra geldi referans ve kaynakçaya kaynakçayı belirtmek için [^1] [^2] veya [^note] formunda yazabilirsin . kaynakça kısmındaki linklerin önüne > [^1] [^2] veya [^note] den sonra : koyman gerekli bunu unutma
