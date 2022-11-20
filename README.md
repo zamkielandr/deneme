@@ -61,15 +61,16 @@ to do list
 + to do
 + to do do 
 + to do do do 
-formunda
 
 shopping list 
 * lemon
 * orange
 * kiwi
 * banana
+
 >not * bunu ayrı yazmazsan italik formunda yazar
 bir de sıralı dizi formunda deneyelim
+
 GalaXI
 1. Muslera
 2. Boey
